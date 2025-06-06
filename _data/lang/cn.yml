@@ -105,7 +105,7 @@ post:
 # for post-list layout
 post-list:
   title: Blog
-  button_name: 项目
+  button_name: 课程项目
   upside_down_tabs:
     tab:
       all: 全部
